@@ -1,0 +1,1 @@
+# Odčitavanje digitalnih vhodov

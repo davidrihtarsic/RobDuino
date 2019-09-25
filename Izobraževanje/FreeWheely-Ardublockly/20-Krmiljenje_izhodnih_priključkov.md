@@ -1,0 +1,2 @@
+# Krmiljenje izhodnih priklučkov
+

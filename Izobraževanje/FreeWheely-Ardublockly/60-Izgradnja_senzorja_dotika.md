@@ -1,0 +1,1 @@
+# Stikalo kot senzor dotika
