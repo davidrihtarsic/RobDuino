@@ -6,7 +6,7 @@
 
 ## Povežite priključke Fischertechnik tipke po naslednji tabeli
 
-| priključki tipke | priključki RobDuino modula |
+| PRIKLJUČKI TIPKE | PRIKLJUČKI RobDuino MODULA |
 |:----------------:|:--------------------------:|
 |         1        |             A0             |
 |         2        |             GND            |

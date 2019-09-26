@@ -2,7 +2,7 @@
 
 ## Naredite programsko funkcij, sestavljeno iz večih programskih stavkov
 
-!!! note: več programskih stavkov združite v funkcijo. Naprimer sestavite funkcijo `Naprej` tako, da se bo robotek peljal naprej.
+!!! note: več programskih stavkov združite v funkcijo. Naprimer sestavite funkcijo `robotNaprej` tako, da se bo robotek peljal naprej.
 
 ```cpp
 void robotNaprej(){

@@ -10,7 +10,9 @@
 |  1 |  1 |        ?       |
 
 
-!!! note: Če sta oba motora priključena na `iste digitalne izhode` se bo robot lako gibal le naprej in nazaj. Takmu sistem pravimo sistem z `eno prostostno stopnjo`
+!!! note: Če sta oba motora priključena na `iste digitalne izhode` se bo robot lako gibal le naprej in nazaj. Takmu sistem pravimo sistem z `eno prostostno stopnjo`.
+
+!!! question: Predpostavimo, da smo oba motorja vezali na ista digitalna izhoda. Kako bi popravili situacijo, če bi se robot začel vrteti namesto premikati naprej?
 
 !!! hint: Da se lahko robot giblje tudi levo in desno, pa moramo `krmiliti oba motorja neodvisno`. Zato morate priključiti drugi motor na `digitalna` izhoda `D5` in `D4`.
 
