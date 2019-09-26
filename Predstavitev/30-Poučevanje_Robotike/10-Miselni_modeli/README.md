@@ -4,7 +4,30 @@ Sam miselni proces je `naporen` in zato se mu večinoma skušamo izogniti!
 
 ## Kako poteka miselni proces, ko se srečamo z novo situacijo?
 
+!!! note: Proces asimilacije in akomodacije. (Piaget, Ackermann 2001, Bizjak 2005, Muler 2008)
+
+1. Situacija sovpada z obstoječimi miselnimi vzorci:
+    - utrdimo MV
+    - znanje trajnejše
+2. Ne sovpada z obsoječimi miselnimi vzorci - `kognitvni konflikt`:
+    1. Zmanjšamo pomembnost (impact)
+        - ne obravnavamo
+        - pozabimo
+    2. Če ne moremo zanematiri izkušnje
+        - si zapomnimo kot ločen miselni vzorec
+        - znanje ne povezano z drugimi MV
+    3. Če se preveč povezuje na podobne MV
+        - šele sedaj smo pripravljeni spremeniti `podvomiti` v dejstvo obstoječih MV in jih ustrezno prilagoditi.
+
 ---
+
+## Kolbov izkustveni učni cikel
+Učenec se soči z naslednjimi fazami:
+
+1. IZKUŠNJA -> sproži nadaljnje miselne procese
+2. OPAZOVANJE -> asimilacija? kognitvni konflikt?
+3. RAZMIŠLJANJE -> abstrakcija možnih razlag
+4. PREIZKUŠANJE -> aktivni preizkus uporabnih vrednosti
 
 ## Enostaven model miselnih procesov.
 !!! note: Daniel Kahneman (nobelov nagrajenec l.2012)
