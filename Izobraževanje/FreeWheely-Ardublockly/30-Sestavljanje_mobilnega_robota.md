@@ -6,4 +6,6 @@ Sestavlite mobilnega robotoa po navodilih na tega video gradiva:
 # Priključitev motorjev
 
 Priključite motor na:
+
 - `digitalni izhod D7` in `D6`
+- lahko priključite `oba` motorja na `ista` digitalna izhoda
