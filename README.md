@@ -6,7 +6,7 @@
 
 RobDuino je močnostini modul za krmilniško vezje Arduino Uno. Prilagojen je didaktični uporabi za poučevanje predmeta Robotika v tehniki v osnovnošolskem izobraževanju. Zasnovan je tako, da omogoča:
 - boljši vpogled v krmiljenje izhodnih in vhodnih naprav,
-- priključitev najrazličnejših, cenovno dostopnih elementov,
+- vijačne sponke za priključitev najrazličnejših, cenovno dostopnih elementov,
 - opremljen z indikatorji stanja na izhodnih priključkih,
 - dopolnjen z ločenim 5 V napajanjem z zaščito kratkostičnega toka.
 
