@@ -12,7 +12,7 @@ RobDuino je močnostini modul za krmilniško vezje Arduino Uno. Prilagojen je di
 
 # Uporaba
 
-Za uporabo tega modula potrebujete kmilniško vezje Arduino Uno in nameščeno programsko optemo ([glej navodila](https://github.com/davidrihtarsic/RobDuino/tree/master/Namestitev_programov#namestitev-programske-opreme)).
+Za uporabo tega modula potrebujete kmilniško vezje Arduino Uno in nameščeno programsko opremo ([glej navodila](https://github.com/davidrihtarsic/RobDuino/tree/master/Namestitev_programov#namestitev-programske-opreme)).
 
 Ko boste namestili knjižnico za enostavnejšo uporabo modula v razvojenm programskem okolju Arduino IDE, lahko preizkusite naslednje primere uporabe, ki jih najdete v:
 
