@@ -112,4 +112,46 @@ Ko zaključite z namestitvijo Python-a, lahko nadaljujete z namestitvijo Ardublo
     3. `Com port:` COM3 *lahko je tudi druga številka*
     4. in potrdite spremembe tako, da kliknete `[RETURN]` gumb na dnu okna.
 
+## VSC in PlatformIO
 
+Program Visual Studio Code je IDE, ki podpira vač različnih programskih jezikov in platform. Ena od jih je tudi Arduino, ki jo v programu VSC namestimo z vtičnikom PlatformIO.
+
+> Pomembno: Pred namestitvijo morate namestiti Arduino IDE! Program Arduino IDE mora biti nameščen (Windows Installer) in ne le dodan med vaše programe kot Windows App.
+
+Za namestitev Visual Studio Code (VSC) najprej s spletne strani [presnemite](https://code.visualstudio.com/download) namestitveno datoteko za vaš operacijski sistem in sledite naslednjim korakom:
+
+1. zaženite namestitveno datoteko `VSCodeUserSetup-ia32-1.49.3.exe`.
+2. Zaženite porogram VSC in kliknite na ikono za vtičnike (Extensions)
+3. V iskalno vrstico vpišite `PlatformIO IDE` in 
+4. kliknite `Install`.
+5. Ko se namestitev vtičnika konča morate ponovno zagnati VSC ali le kliknite na `Reload now`.
+
+Tako je namestitev končana in se lahko preizkusite s prvim projektom `Blink`:
+
+1. Vključite Arduino Uno.
+2. Odprite `PlatformIO - Home Page`:
+  - lahko, da se vam ta stran že samodejno odpre...
+  - v levem oknu z možnimi aktivnostmi kliknite na ikono `PlatformIO` in nato
+    + `QUICK ACCESS` -> `PIO Home` -> `Open`
+3. Kliknite `+ New Project`
+4. Nastavitve:
+  - `Name:` ime_projekta
+  - `Board:` Arduino UNO
+  - `Framework:` Arduino Framework
+5. Nato kliknite `Finish` in PIO bo preveril, če imate res nameščene vse potrebne komponente kot so: Arduino IDE, gcc-toolchain, SDK ... in vam pripravil arhitekturo projekta (z raznimi datotekami), ki se bo prikazala v levem oknu.
+6. Poiščite mapo `src` (skarjšano iz angl. `SouRce Code`), v kateri bose našli izvorno kodo vašega programa = `source code`.
+7. Vpišite program, na primer:
+```cpp
+#include <Arduino.h>
+void setup() {
+  pinMode(13, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(13,HIGH);
+  delay(500);
+  digitalWrite(13,LOW);
+  delay(500);
+}
+```
+8. Nato spodaj kliknete `Build` in `Upload`.
