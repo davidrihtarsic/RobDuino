@@ -2,7 +2,7 @@
 
 Za prenos programa na krmilnik Arduino UNO boste potrebovali posebno programsko opremo. Na tem mestu je naštetih nekaj korakov kako lahko namestite naslednje programe:
 1. [Arduino IDE](#arduino-ide) je osnovno programsko okolje za pisanje programov za krmilnike Arduino.
-2. Programska knjižnica [RobDuino](#RobDuino), ki jo boste potrebovali za lažje programiranje modula RobDuino.
+2. Programska knjižnica [RobDuino](#robduino), ki jo boste potrebovali za lažje programiranje modula RobDuino.
 3. [Ardublockly](#ardublockly) je odlično didaktično programsko orodje za začetniško programiranje.
 4. [Python](#namestitev-pythona) ... 😥 potrebujete za zagon Ardublockly-a.
 
