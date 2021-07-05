@@ -45,7 +45,7 @@ void discharge_cycle(){
   digitalWrite(SPR, 1);
   digitalWrite(PIN_R,0);
   int C_ADC = analogRead(PIN_C);
-  while (C_ADC > LO_TSH ) C_ADC = analogRead(PIN_C);
+  while (C_ADC > LO_TRSH ) C_ADC = analogRead(PIN_C);
 }
 void printTime(){        // Čas je prikazan v ms -> milisekundah
   unsigned long timePeriod = millis() - startTime;
