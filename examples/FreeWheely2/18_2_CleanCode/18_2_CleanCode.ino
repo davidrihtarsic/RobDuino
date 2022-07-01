@@ -1,14 +1,10 @@
 #include "RobotMovingFunctions.h"
-void setup()
-{
+void setup() {
   setIOpins();
-
   robotForward();
   delay(3000);
-  robotBackward();
-  deay(3000);
   robotStop();
 }
 
-void loop(){
+void loop() {
 }
