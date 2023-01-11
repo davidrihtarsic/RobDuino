@@ -9,11 +9,11 @@ const int RIGHT_MOTOR_PIN_1 = 4;
  * Function declarations
  ***************************/
 void setIOpins();
-void robotForward();
-void robotStop();
-void robotLeft();
-void robotRight();
-void robotBackward();
+void moveForward();
+void stopTheRobot();
+void moveLeft();
+void moveRight();
+void moveBack();
 /****************************
  * Function definitions
  ***************************/
@@ -23,31 +23,31 @@ void setIOpins(){
   pinMode(RIGHT_MOTOR_PIN_1, OUTPUT);
   pinMode(RIGHT_MOTOR_PIN_2, OUTPUT);
 }
-void robotForward(){
+void moveForward(){
   digitalWrite( LEFT_MOTOR_PIN_1, LOW);
   digitalWrite( LEFT_MOTOR_PIN_2, HIGH);
   digitalWrite(RIGHT_MOTOR_PIN_1, LOW);
   digitalWrite(RIGHT_MOTOR_PIN_2, HIGH);
 }
-void robotStop(){
+void stopTheRobot(){
   digitalWrite( LEFT_MOTOR_PIN_1, LOW);
   digitalWrite( LEFT_MOTOR_PIN_2, LOW);
   digitalWrite(RIGHT_MOTOR_PIN_1, LOW);
   digitalWrite(RIGHT_MOTOR_PIN_2, LOW);
 }
-void robotLeft(){
+void moveLeft(){
   digitalWrite( LEFT_MOTOR_PIN_1, LOW);
   digitalWrite( LEFT_MOTOR_PIN_2, LOW);
   digitalWrite(RIGHT_MOTOR_PIN_1, LOW);
   digitalWrite(RIGHT_MOTOR_PIN_2, HIGH);
 }
-void robotRight(){
+void moveRight(){
   digitalWrite( LEFT_MOTOR_PIN_1, LOW);
   digitalWrite( LEFT_MOTOR_PIN_2, HIGH);
   digitalWrite(RIGHT_MOTOR_PIN_1, LOW);
   digitalWrite(RIGHT_MOTOR_PIN_2, LOW);
 }
-void robotBackward(){
+void moveBack(){
   digitalWrite( LEFT_MOTOR_PIN_1, HIGH);
   digitalWrite( LEFT_MOTOR_PIN_2, LOW);
   digitalWrite(RIGHT_MOTOR_PIN_1, HIGH);
