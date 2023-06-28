@@ -6,7 +6,7 @@
 //   ukazi;
 // }
 // Preverite kakšno vlogo ima ta zanka...
-// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewhellyarduino#TOC-Programske-zanke
+// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewheely-rob#TOC-Programske-zanke
 ////////////////////////////////////////////////////////
 #include "RobDuino.h"
 void setup()

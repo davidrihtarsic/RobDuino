@@ -22,6 +22,5 @@ void loop()
     lcd.print("  O  O  ");lcd.setCursor(0,1);
     lcd.print("  ____  ");
     delay(3000);
-}               
-
+}
 

@@ -2,7 +2,7 @@
 // TEST VMESNIKA
 // 1. Naložite program.
 // 2. Preskusite delovanje vmesnika tako, da pritiskate na tipki C4 ali C5...
-// link:https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewhellyarduino#TOC-Priklju-itev-vmesnika
+// link:https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewheely-rob#TOC-Priklju-itev-vmesnika
 ////////////////////////////////////////////////////////
 #include "RobDuino.h"         
 Button TipkaC4(pC4);  

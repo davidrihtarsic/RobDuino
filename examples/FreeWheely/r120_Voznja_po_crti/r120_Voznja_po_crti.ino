@@ -9,7 +9,7 @@
 //          naj zavije DESNO, a le z enim kolesom.
 //    Poleg tega ne pozabite, da mora biti ves čas vožnje
 //    vključena tudi lučka na digitalnem izhodu D3.
-// link: 
+// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewheely-rob#TOC-Vo-nja-po-rti
 ////////////////////////////////////////////////////////
 #include "RobDuino.h"
 Button TipkaC4(pC4);

@@ -2,7 +2,7 @@
 // IZOGIB OVIRAM (IR SENZOR)
 // 1. Naložite in preskusite program.
 // 2. Program tudi dopolnite s svojimi idejami tako, da se bo robot ovri izognil. 
-// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewhellyarduino#TOC-Izogib-oviram---IR-senzor-razdalje
+// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewheely-rob#TOC-Izogib-oviram---IR-senzor-razdalje
 ////////////////////////////////////////////////////////
 #include "RobDuino.h"
 Button TipkaC4(pC4);

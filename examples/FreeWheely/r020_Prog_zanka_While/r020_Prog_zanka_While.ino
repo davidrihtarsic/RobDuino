@@ -8,7 +8,7 @@
 //   ukazi;
 //   ukazi;
 // }
-// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewhellyarduino#TOC-Moj-prvi-program
+// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewheely-rob#TOC-Moj-prvi-program
 ////////////////////////////////////////////////////////
 #include "RobDuino.h"
 void setup()
@@ -22,7 +22,7 @@ void setup()
 }
 
 void loop()
-{ // glavni program
-
+{
+  // ta del programa
+  // se niti ne izvaja...
 }
-

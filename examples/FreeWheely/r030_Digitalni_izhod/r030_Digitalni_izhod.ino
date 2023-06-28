@@ -5,7 +5,7 @@
 //    PORTD = 80;
 //    PORTD = 0b11001100;
 //    digitalWrite(pD7,HIGH);
-// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewhellyarduino#TOC-Dolo-itev-stanja-na-digitalnih-izhodih
+// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewheely-rob#TOC-Dolo-itev-stanja-na-digitalnih-izhodih
 ////////////////////////////////////////////////////////
 #include "RobDuino.h"              
 void setup()

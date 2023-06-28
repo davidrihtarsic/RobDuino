@@ -2,7 +2,7 @@
 // TEST LUČKE IN SVETLOBNEGA SENZORJA
 // 1. Naložite in preskusite program...
 // 2. in preverite odziv tipke v "Serijskem Oknu" (angl. Serial Monitor - bližnica = [Shift]+[Ctrl]+[M])
-// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewhellyarduino#TOC-Priklju-itev-tipke
+// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewheely-rob#TOC-Priklju-itev-tipke
 ////////////////////////////////////////////////////////
 #include "RobDuino.h"
 Button TipkaC4(pC4);

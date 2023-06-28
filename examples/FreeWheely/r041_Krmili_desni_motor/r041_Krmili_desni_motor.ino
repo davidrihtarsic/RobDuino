@@ -3,7 +3,7 @@
 // 1. Naložite in preskusite program tako,
 //    da pritiskate tipki C4 in C5.
 // 2. Preverite, če se motor vrti pravilno...
-// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewhellyarduino#TOC-Krmiljenje-digitalnih-izhodov
+// link: https://sites.google.com/site/drtirobotika/izobrazevanje/arduino/robotika-v-tehniki/freewheely-rob#TOC-Krmiljenje-digitalnih-izhodov
 ////////////////////////////////////////////////////////
 #include "RobDuino.h"   
 Button TipkaC4(pC4);
