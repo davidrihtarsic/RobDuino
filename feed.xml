@@ -12,7 +12,13 @@
     <link href="https://davidrihtarsi.github.io/RobDuino"/>
     <id>id_0004</id>
     <updated>2023-07-10T19:31:00Z</updated>
-    <summary>Rezultati poročil z malo več  yexta.</summary>
+    <summary>
+    Rezultati poročil z malo več  yexta.
+    Kako pa bo še ta text.
+    | vpisna | predmet | ocena |
+    |--------|---------|-------|
+    | 123    |  ITTD   |  56%  |
+    </summary>
   </entry>
   <entry>
     <title>2023-06-13: Rezultati poročil</title>
