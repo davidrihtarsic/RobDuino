@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ITTD - Obvestila za študente</title>
   <link href="https://davidrihtarsic.github.io/ITTD/"/>
-  <updated>2023-07-11T18:30:02Z</updated>
+  <updated>2023-07-11T09:30:00Z</updated>
   <author>
     <name>dr. David Rihtaršič</name>
   </author>
@@ -12,7 +12,7 @@
     <link href="https://davidrihtarsi.github.io/RobDuino"/>
     <id>id_0003</id>
     <updated>2023-07-10T18:30:02Z</updated>
-    <summary>Rezultati p</summary>
+    <summary>Rezultati porocil</summary>
   </entry>
   <entry>
     <title>Moj prvi feed</title>
