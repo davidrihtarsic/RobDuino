@@ -12,14 +12,7 @@
     <link href="https://davidrihtarsi.github.io/RobDuino"/>
     <id>id_0003</id>
     <updated>2003-12-13T18:30:02Z</updated>
-    <summary>
-      Rezultati poročil...
-
-      | vpisna | predmet | ocena |
-      |--------|--------|--------|
-      | 123456 | ITTD   |   56%  |
-    
-    </summary>
+    <summary>Rezultati poročil...\n| vpisna | predmet | ocena |\n|--------|--------|--------|\n| 123456 | ITTD   |   56%  |</summary>
   </entry>
   <entry>
   <entry>
